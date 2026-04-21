@@ -1,0 +1,107 @@
+---
+title: "Protocol Review Sessions"
+---
+
+## Strengthen Your Trial Before It Begins
+
+The ACT-CTU offers **Protocol Review Sessions** — a structured, expert-led forum designed to strengthen your clinical trial at a critical stage of development.
+
+These sessions provide investigators with **high-value, real-time feedback** from experienced trialists, methodologists, and clinicians, helping to refine study design, improve feasibility, and enhance competitiveness for funding.
+
+---
+
+## What is a Protocol Review Session?
+
+A Protocol Review Session is a **1-hour live, interactive feedback forum** structured as follows:
+
+- **10-minute presentation** by the Principal Investigator  
+  *(background, objectives, study design, protocol, outcomes)*  
+- **3–5 key questions** posed by the PI to guide discussion  
+- **50-minute expert panel discussion and audience feedback**
+
+Sessions are:
+- Moderated by the ACT-CTU  
+- Tailored to your study and key challenges  
+- Open to the research community  
+- Promoted through ACT-CTU communications  
+
+---
+
+## Why Participate?
+
+Protocol Review Sessions provide a unique opportunity to:
+
+- Strengthen your study design before submission  
+- Identify methodological and feasibility challenges early  
+- Improve grant competitiveness  
+- Receive input from **leading clinical trialists and methodologists**  
+- Build connections with potential collaborators and long-term partners  
+- Contribute to and benefit from a **learning-oriented research community**
+
+---
+
+## Request a Protocol Review Session
+
+If you are developing a clinical trial and would benefit from structured expert feedback, we invite you to request a session.
+
+📧 **[Request a Protocol Review Session](mailto:amanda.lovato@rimuhc.ca?subject=Protocol Review Session Request)**
+
+---
+
+## What We Will Need From You
+
+To organize your session, we will ask for:
+
+- A copy of your **latest protocol or research plan**  
+- **3–5 key questions** you would like feedback on  
+- Your **availability and timeline**
+
+Based on your project and questions, the ACT-CTU will:
+- Identify and invite relevant expert panelists  
+- Coordinate logistics and promotion  
+- Facilitate the session  
+
+---
+
+## Join as a Reviewer or Expert Panelist
+
+We are continuously building a network of experts interested in contributing to protocol development and advancing clinical trial excellence.
+
+If you would like to:
+- Serve as a panelist  
+- Provide methodological or clinical feedback  
+- Engage with emerging trial designs  
+
+📧 **[Express interest in becoming a reviewer](mailto:amanda.lovato@rimuhc.ca?subject=Protocol Review Session Reviewer Opportunity)**
+
+---
+
+## A Collaborative Learning Environment
+
+Beyond supporting individual studies, Protocol Review Sessions are designed to foster a culture of **shared learning, methodological rigor, and collaboration** across the clinical trials community.
+
+---
+
+<div class="section-divider"></div>
+
+## Previous Protocol Review Sessions
+
+| Presenter Photo | Speaker(s) | Date | Trial | Panel |
+|---|---|---|---|---|
+| ![](../images/speakers/pamidi.jpg){width=90} | Sushmita Pamidi | Feb 21, 2024 | RESTful GDM: RESTorative Sleep using a patient-oriented treatment for sleep-disordered breathing in gestational diabetes mellitus (GDM): A randomized controlled trial | Andrea Benedetti; Jonathon Campbell; Simon Bacon; Patricia Li; Julio Flavio Fiore Junior; Marc Beltempo |
+| ![](../images/speakers/gagnon.jpg){width=90} | Isabelle Gagnon | Feb 21, 2024 | Direct access physiotherapy in the Pediatric Emergency Department to improve access to and satisfaction with quality care for children and adolescents with musculoskeletal injuries: a randomized control trial | Andrea Benedetti; Jonathon Campbell; Simon Bacon; Patricia Li; Julio Flavio Fiore Junior; Marc Beltempo |
+| ![](../images/speakers/janaudis-ferreira.jpg){width=90} | Tania Janaudis-Ferreira | Feb 21, 2024 | Web-based Home Exercise and Educational Program targeting patients with mild COPD: The HELP-MILD Randomized Controlled Trial | Andrea Benedetti; Jonathon Campbell; Simon Bacon; Patricia Li; Julio Flavio Fiore Junior; Marc Beltempo |
+| ![](../images/speakers/sadeghi.jpg){width=90} | Nader Sadeghi | Mar 27, 2024 | Neoadjuvant immuno-chemotherapy and de-escalated transoral robotic surgery for HPV-related oropharyngeal cancer | Christina Tsien; Nathaniel Bouganim; Raman Agnihotram; Sameer Parpia |
+| ![](../images/speakers/gupta.jpg){width=90} | Indra Gupta | Aug 15, 2024 | Efficacy of Bryophyllum pinnatum tea for kidney stones | Nandini Dendukuri; Rita Suri; Angela Genge |
+| ![](../images/speakers/paquette.jpg){width=90} | Caroline Paquette | Aug 15, 2024 | Rewiring the brain to reduce freezing of gait in Parkinson’s disease | Nandini Dendukuri; Rita Suri; Angela Genge |
+| ![](../images/speakers/poenaru.jpg){width=90} | Dan Poenaru | Aug 21, 2024 | Virtual reality-based pediatric trauma training feasibility trial | Isabelle Gagnon; Steven Grover; Matthias Friedrich; Dick Menzies |
+| ![](../images/speakers/farivar.jpg){width=90} | Reza Farivar | Sep 12, 2024 | Ketogenic enteral feed in severe traumatic brain injury | Deborah Assayag; Simon Ducharme |
+| ![](../images/speakers/ben-mrad.jpg){width=90} | Mona Ben M'Rad; Soham Rej; Rita Suri | Dec 5, 2024 | Virtual reality use for exercise in hemodialysis (VIRTUE-HD) | Nancy Mayo; Tina Athanasoulias |
+| ![](../images/speakers/magder.jpg){width=90} | Sheldon Magder | Feb 13, 2025 | IV acetaminophen and post-operative delirium following cardiac surgery | Jose Morais; Elham Rahme |
+| ![](../images/speakers/kimoff.jpg){width=90} | John Kimoff | Feb 13, 2025 | Positive airway pressure and cardiovascular risk in obstructive sleep apnea | Jose Morais; Elham Rahme |
+| ![](../images/speakers/farivar2.jpg){width=90} | Dr. Reza Farivar | Feb 18, 2025 | Reversing amblyopia in children through a participatory framework | Marc Beltempo; Tania Janaudis-Ferreira; Isabelle Gagnon; Isabelle Morin |
+| ![](../images/speakers/duque.jpg){width=90} | Dr. Gustavo Duque | Feb 18, 2025 | Effects of HMB and HOBA on aging and intrinsic capacity | Marc Beltempo; Tania Janaudis-Ferreira; Isabelle Gagnon; Isabelle Morin |
+| ![](../images/speakers/suri.jpg){width=90} | Rita Suri; Mohamed Elahmedi | Mar 18, 2025 | AI-driven prediction of dialysis blood pressure fluctuations | Remi Goupil; Elaine Kaptein; Emily McDonald; Dan Poenaru |
+| ![](../images/speakers/tsui.jpg){width=90} | James Tsui | Apr 24, 2025 | Low-dose radiation for osteoarthritic lumbar inflammation (RELIEF) | Philippe Boileau; Sasha Bernatsky |
+| ![](../images/speakers/sharma.jpg){width=90} | Abhinav Sharma | Aug 21, 2025 | Semaglutide in heart failure (Sema-HFrEF feasibility pilot trial) | John Kimoff; Kaberi Dasgupta |
+| ![](../images/speakers/pilote.jpg){width=90} | Louise Pilote | March 2026 | Social Prescribing Trial | TBD |

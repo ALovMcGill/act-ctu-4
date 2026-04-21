@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "ACT-CTU | RI-MUHC"
+  navbar:
+    logo: images/act-ctu-logo.png
+    left:
+      - text: Home
+        href: index.qmd
+      - text: The Team
+        href: team.qmd
+      - text: Services
+        menu:
+          - text: Trial Methodology Support
+            href: initiatives/methods.qmd
+          - text: Protocol Review Sessions 
+            href: initiatives/protocol-review-session.qmd
+          - text: Nagano Support
+            href: initiatives/nagano.qmd
+          - text: Health Canada Submissions
+            href: initiatives/HealthCanada.qmd
+          - text: Connect with Expert Staff to Run Your Trial
+            href: initiatives/key-shared-staff.qmd
+          - text: Expanding Trial Sites Through the ACT Network
+            href: initiatives/act-network.qmd
+          - text: Refine Your Recruitment Pitch
+            href: initiatives/pitch.qmd
+          - text: Connect With a Patient Partner
+            href: initiatives/patient-engagement.qmd
+          - text: Permission to Contact for Research
+            href: initiatives/universal-consent.qmd
+          - text: Internal Call for Pilot Studies
+            href: initiatives/pilot-studies.qmd
+      - text: Education
+        menu:
+          - text: Clinical Trial Rounds Educational Series
+            href: initiatives/clinical-trial-rounds.qmd
+          - text: CAN-TAP-TALENT Community of Practice
+            href: education/CoP.qmd
+      - text: Tools
+        href: resources.qmd
+  page-footer:
+    left: "ACT-CTU | Research Institute of the McGill University Health Centre"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true

@@ -1,0 +1,19 @@
+---
+title: "Services"
+---
+
+## Advancing Clinical Trials Through Expert Support
+
+1. [Trial Methodology Support](initiatives/methods.qmd)
+2. [ACT-CTU Protocol Review Sessions](initiatives/protocol-review-session.qmd)
+3. [Nagano Support](initiatives/nagano.qmd)
+4. [Health Canada Regulatory Submission Assistance](initiatives/HealthCanada.qmd)
+5. [Connect with Expert Staff to Run Your Trial](initiatives/key-shared-staff.qmd)
+6. [Exapanding Trial Sites Through the ACT Network](initiatives/act-network.qmd)
+7. [Refine Your Recruitment Pitch](initiatives/pitch.qmd)
+8. [Connect With a Patient Partner](initiatives/patient-engagement.qmd)
+9. [Permission to Contact for Research](initiatives/universal-consent.qmd)
+10. [Internal Call for Pilot Studies](initiatives/pilot-studies.qmd)
+
+
+
